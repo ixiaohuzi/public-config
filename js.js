@@ -1,3 +1,3 @@
 function js(){
-    console.log("远程js执行了。")
+    alert("远程js执行了。")
 }
